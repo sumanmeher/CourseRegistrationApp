@@ -1,1 +1,1 @@
-# Project-3_CourseRegistrationApp
+# CourseRegistrationApp
